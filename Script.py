@@ -8,9 +8,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
 ╔════❰ {} ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝗔𝗗𝗠𝗜𝗡   - <a href="https://t.me/KL_2335"> Prv </a>
-║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁     - <a href="https://t.me/Prv_35"> KMTZ </a>
-║┣⪼ 𝗚𝗥𝗢𝗨𝗣      ➾ <a href="https://t.me/kmtz_v3"> KMTZ GP1️⃣ </a>
+
+
 ║┣⪼ 𝗚𝗥𝗢𝗨𝗣      ➾ <a href="https://t.me/kmtz_v4"> KMTZ GP2️⃣ </a>
 ║┣⪼ 𝗚𝗥𝗢𝗨𝗣      ➾ <a href="https://t.me/kmtz_v5"> KMTZ GP3️⃣ </a>
 ║┣⪼ 𝗖𝗵𝗮𝗻𝗻𝗲𝗹      - <a href="https://t.me/kmtz_channel_v3"> 𝗞𝗠𝗧𝗭 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 </a>
