@@ -8,5 +8,5 @@ else
 fi
 cd /Prv-DQ--Auto-filter-
 pip3 install -U -r requirements.txt
-echo "Starting DQ-The-File-Donor...."
+echo "Starting Prv-DQ--Auto-filter-...."
 python3 bot.py
