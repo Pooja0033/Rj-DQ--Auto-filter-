@@ -8,11 +8,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
 ╔════❰ {} ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-
-
 ║┣⪼ 𝗚𝗥𝗢𝗨𝗣      ➾ <a href="https://t.me/kmtz_v4"> KMTZ GP2️⃣ </a>
 ║┣⪼ 𝗚𝗥𝗢𝗨𝗣      ➾ <a href="https://t.me/kmtz_v5"> KMTZ GP3️⃣ </a>
-║┣⪼ 𝗖𝗵𝗮𝗻𝗻𝗲𝗹      - <a href="https://t.me/kmtz_channel_v3"> 𝗞𝗠𝗧𝗭 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 </a>
+      
+
+║┣⪼ 𝗖𝗵𝗮𝗻𝗻𝗲𝗹      - <a href="https://t.me/kmtz_channel_v3"> KMTZ CH </a>
 ║╰─━━━━━━━━━━━━━━━➣"""
 
     SOURCE_TXT = """<b>𝙿𝚁𝙸𝚅𝙰𝚃𝙴 𝙱𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄</b>
