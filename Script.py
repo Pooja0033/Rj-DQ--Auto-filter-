@@ -6,8 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-╔════❰ {} ❱═❍⊱❁۪۪
-║╭━━━━━━━━━━━━━━━➣ 
+ 
 ║┣⪼ GROUP      ➾ <a href="https://t.me/kmtz_v4"> KMTZ GP2️⃣ </a>
 ║┣⪼ GROUP      ➾ <a href="https://t.me/kmtz_v5"> KMTZ GP3️⃣ </a>
 ║┣⪼ CHANNEL      - <a href="https://t.me/kmtz_channel_v3"> KMTZ CH </a>"""     
